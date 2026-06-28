@@ -25,7 +25,7 @@ The objective of this project is to analyze customer shopping data for a leading
 6. Data Visualization
 
 
-##### Data Source:
+### Data Source:
 
 The dataset is sourced from the Amlan Mohanty YouTube channel and contains customers shopping data.
 
@@ -66,6 +66,6 @@ The dataset is sourced from the Amlan Mohanty YouTube channel and contains custo
 
 ### Dashboard
 
-https://github.com/123niharikasaini/Pizza-Sales-Analysis/blob/main/Snapshot%20of%20dashboard.png
+https://github.com/123niharikasaini/Customer_shopping_behaviour_analysis/blob/main/Dashboard_image.png
 
 ### Conclusion
