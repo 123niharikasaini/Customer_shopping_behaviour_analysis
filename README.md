@@ -62,10 +62,24 @@ The dataset is sourced from the Amlan Mohanty YouTube channel and contains custo
    3. Customer Segmentation Analysis: Designed a specialized bar chart classifying and visualizing the distribution of New, Loyal, and Returning customer to assist management with retention strategies.
 
 ### Key Insights
-1. 
+Based on the data analysis and Power BI visualizations, the following strategic insights were delivered to management:
+
+1. Subscription Growth Opportunity (Gender Gap): Identified a significant gap in subscription adoption, particularly among female customers who currently show zero or minimal subscription rates.
+###### Recommendation: Launch targeted marketing campaigns, exclusive perks, or introductory offers specifically designed to convert female shoppers into subscribers.
+
+2. Targeting the High-Value Demographics: The Young Adult age group emerged as the primary revenue driver with the highest customer lifetime value potential.
+###### Recommendation: Allocate more marketing budget toward this demographic and tailor product offerings to capture these promising future buyers.
+
+3. Core Product Performance: The Clothing category is the company's clear powerhouse, generating both the highest revenue and the largest volume of total purchases.
+###### Recommendation: Maintain strong inventory levels for high-demand apparel and use this category as a hook for cross-selling lesser-performing categories.
+
+4. Data-Driven Customer Retention Strategies:
+###### New & Returning Customers: Implement targeted discounts, first-time buyer perks, and personalized milestone benefits to nurture them into becoming high-value, long-term buyers.
+###### Loyal Customers: Deploy loyalty appreciation initiatives, such as personalized "Thank You" communication and exclusive early access to sales, to protect and maintain this critical revenue segment.
+
+5. Seasonal Revenue Peak: Sales data revealed that the Fall season drives peak revenue for the company.
+###### Recommendation: Optimize supply chains, plan major inventory rests, and launch peak promotional campaigns right before the Autumn surge to maximize seasonal profitability.
 
 ### Dashboard
 
 https://github.com/123niharikasaini/Customer_shopping_behaviour_analysis/blob/main/Dashboard_image.png
-
-### Conclusion
